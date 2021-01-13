@@ -1,0 +1,188 @@
+#menu-page{
+  background-image: url("https://image.freepik.com/free-photo/tasty-pepperoni-pizza-black-concrete-background_79782-102.jpg");
+   background-repeat: no-repeat; 
+  height: 800px;
+  background-size: cover; 
+}
+li{
+  color: white;
+  margin-left: 900px;
+  font-size: 40px;
+  font-family: Comic Sans MS, Comic Sans, cursive	;
+}
+.button{
+    margin-left: 900px;
+    font-size:  40px;
+  background-color: orange;
+  border-width: 3px;
+}
+h1{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  margin-top: -10px;
+}
+/*This is the styling for the make your own pizza screen*/
+#menu{
+  background-image: url("https://media.istockphoto.com/videos/stop-motion-animation-top-view-vegetables-on-black-color-background-video-id843084240?s=640x640");
+     background-repeat: no-repeat; 
+  height: 800px;
+  background-size: cover; 
+
+}
+#h2_1{
+  color: white;
+  background-color: red;
+  width: 150px;
+  height: 100px;
+  text-align: center;
+  font-size: 25px;
+  margin-top: -50px;
+}
+#h2_2{
+  color: white;
+  background-color: orange;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 25px;
+  margin-top: -250px;
+}
+#h2_3{
+  color: white;
+  background-color: blue;
+  width: 150px;
+  height: 90px;
+  text-align: center;
+  font-size: 25px;
+}
+#input{
+margin-left: 740px;
+margin-top: 8px;
+}
+h3{
+  color: white;
+  margin-left: 770px;
+}
+#hello{
+  color: white;
+  margin-left: 730px;
+}
+.step_1{
+  margin-left: 700px;
+  color: gray;
+  margin-bottom: -30px;
+
+}
+.step_1-write{
+  margin-left: 780px;
+margin-top: 5px;
+}
+#button_submit{
+   margin-left: 765px;
+    font-size:  30px;
+  background-color: orange;
+  border-width: 3px;
+border-radius: 50;
+}
+
+#Pizza{
+    background-image: url("https://media.istockphoto.com/videos/stop-motion-animation-top-view-vegetables-on-black-color-background-video-id843084240?s=640x640");
+     background-repeat: no-repeat; 
+  height: 800px;
+  background-size: cover; 
+}
+#aaira{
+  background-color: yellow;
+  margin-top: -3000px;
+  width: 150px;
+  color: black;
+  border-width: 3px;
+  font-size: 35px;
+  font-weight: 500; 
+}
+#abdullah{
+  background-color: cyan;
+  margin-top: 0px;
+  font-size: 40px;
+  width: 150px;
+}
+.pizza{
+    border-radius: 100%;
+  
+}
+#pizza_1{
+    margin-left: 410px;
+}
+#hi{
+  color: black;
+    margin-left: 490px;
+  margin-top: -240px;
+
+}
+#shahshah{
+margin-left: 380px;
+  margin-top: -300px;
+}
+.background{
+  background-color: tan;
+  height: 250px;
+  width: 300px;
+}
+#pi{
+  margin-left: 820px;
+  margin-top: -240px;
+}
+#pizza_2{
+  margin-left: 750px;
+  margin-top: 0px;
+}
+#background-2{
+  margin-left: 720px;
+  margin-top: -230px;
+}
+#background-3{
+  margin-left: 1050px;
+  margin-top: -230px;
+}
+#li{
+  margin-left: 1130px;
+  margin-top: -245px;
+}
+#pizza_3{
+  margin-top: 0px;
+  margin-left: 1080px;
+}
+#li_1{
+  margin-left: 475px;
+  margin-top: -240px;
+}
+#background-4{
+  margin-left: 380px;
+  margin-top: 50px;
+}
+#pizza_4{
+  margin-left: 410px;
+}
+#li_2{
+  margin-left: 810px;
+  margin-top: -240px;
+}
+#background-5{
+  margin-left: 720px;
+  margin-top: -230px;
+}
+#pizza_5{
+  margin-left: 750px;
+}
+#li_3{
+  margin-left: 1130px;
+  margin-top: -240px;
+}
+#background-6{
+  margin-left: 1050px;
+  margin-top: -230px;
+}
+#pizza_6{
+  margin-left: 1090px;
+}
